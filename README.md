@@ -4,9 +4,9 @@
 |Tool| 
 ------
 
-# GeekStarterPack |Level51 Auto Install|
+# GeekStarterPack! |Level51 Auto Install|
 
-### GeekStarterPack Create by karinzaa! </n>
+### GeekStarterPack! Create by karinzaa! </n>
 
 * Download folder `Auto Install` folder from https://drive.google.com/open?id=0B8fz6hnJ2jitVnpIMHFtak54Nnc</n>
 * Extract  `Auto Install.rar`
