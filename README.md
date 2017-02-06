@@ -15,6 +15,6 @@
 * Click `Select Folder`
 * Find `Auto Install` folder and  Click `Select Folder`
 
->***Require Level51 Auto Install***
+>***Require `Level51 Auto Install`***
 
 ![Imgur](http://i.imgur.com/z9yRvX2.png?1)
