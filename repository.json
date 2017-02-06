@@ -1,0 +1,57 @@
+{
+  "pack name": "Geek starter pack!",
+  "updated": "2017-02-6 Time 18:54:16",
+  "createdBy": "karinzaa![FREEDOMLAND!]",
+  "programs": [
+    {
+      "order": 1,
+      "name": "Notepad Plus Plus",
+      "version": "7.3.1",
+      "argument": "-S",
+      "executable": "npp.7.3.1.Installer.exe",
+      "restart": false,
+      "hidewindow": false,
+      "exitcode": 0
+    },    
+  {
+      "order": 2,
+      "name": "BlueScreenView",
+      "version": "1.55 ",
+      "argument": "-S",
+      "executable": "bluescreenview_setup.exe",
+      "restart": false,
+      "hidewindow": false,
+      "exitcode": 0
+    },
+	{
+      "order": 2000,
+      "name": "Git for Windows",
+      "version": "2.11.1",
+      "argument": "-S",
+      "executable": "Git-2.11.1-64-bit.exe",
+      "restart": false,
+      "hidewindow": false,
+      "exitcode": 0
+    },
+	{
+      "order": 20001,
+      "name": "TortoiseGit",
+      "version": "10.1.1.42",
+      "argument": "-OVERALL -S",
+      "executable": "TortoiseGit-2.4.0.0-64bit.msi",
+      "restart": true,
+      "hidewindow": false,
+      "exitcode": 0
+    },
+    {
+      "order": 3,
+      "name": "SystemX",
+      "version": "1.0.0.17",
+      "argument": "-S",
+      "executable": "setup (5).exe",
+      "restart": false,
+      "hidewindow": false,
+      "exitcode": 0
+    }
+  ]
+}
