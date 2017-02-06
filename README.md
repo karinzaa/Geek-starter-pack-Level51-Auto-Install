@@ -8,7 +8,7 @@
 
 ### GeekStarterPack! Create by karinzaa! </n>
 
-* Download folder `Auto Install` folder from https://drive.google.com/open?id=0B8fz6hnJ2jitVnpIMHFtak54Nnc</n>
+* Download folder `Auto Install` from https://drive.google.com/open?id=0B8fz6hnJ2jitVnpIMHFtak54Nnc</n>
 * Extract  `Auto Install.rar`
 * Put `repository.json` in to `Auto Install` folder</n>
 * Open `Level51 Auto Install` 
