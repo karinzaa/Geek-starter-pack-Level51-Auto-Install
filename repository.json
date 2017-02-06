@@ -39,7 +39,7 @@
       "version": "10.1.1.42",
       "argument": "-OVERALL -S",
       "executable": "TortoiseGit-2.4.0.0-64bit.msi",
-      "restart": true,
+      "restart": false,
       "hidewindow": false,
       "exitcode": 0
     },
@@ -49,7 +49,7 @@
       "version": "1.0.0.17",
       "argument": "-S",
       "executable": "setup (5).exe",
-      "restart": false,
+      "restart": true,
       "hidewindow": false,
       "exitcode": 0
     }
