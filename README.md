@@ -1,4 +1,4 @@
-![Imgur](http://i.imgur.com/x6M90FH.jpg)
+![Imgur](http://imgur.com/x6M90FH.jpg)
 
 |Tool||
 |----|----|
